@@ -1,0 +1,68 @@
+html{
+    color: white;
+}
+.navbar	
+{
+    background-color:rgba(0, 245, 20, 0.75);
+    position:fixed;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-color: black;
+    border-bottom:1mm solid;
+}  
+
+.navbar a{
+    font-size: 1.7rem;
+    border-radius: 40px;
+    padding: 1%;
+    text-decoration: none;
+    color:black;
+    border: solid;
+    border-color: transparent;
+}
+
+
+.container input
+{
+    float:right;
+    margin: 4px,0px,4px,0px;
+    width:70%;
+}
+.container label
+{
+    margin: 4px,0px,4px,0px;
+}
+.container h4 {
+    color:red;
+}
+
+.productstable
+{
+color: white;
+}
+
+.productstable table{
+    padding:2%;
+}
+
+.productstable img{
+    border:solid black;
+}
+
+.rows {
+    width:100%;
+    border-top: solid aliceblue;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    column-count: 3;      
+    column-gap: 0px;
+}
+
+p{
+    color: white;
+}
